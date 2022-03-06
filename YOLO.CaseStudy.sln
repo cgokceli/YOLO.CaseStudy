@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.MD = README.MD
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOLO.CaseStudy.Tests", "YOLO.CaseStudy.Tests\YOLO.CaseStudy.Tests.csproj", "{16B29F93-4212-44D3-84B0-222303F58955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2C0A8095-DA90-4C41-B4FC-90A8A90B29E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C0A8095-DA90-4C41-B4FC-90A8A90B29E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C0A8095-DA90-4C41-B4FC-90A8A90B29E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B29F93-4212-44D3-84B0-222303F58955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B29F93-4212-44D3-84B0-222303F58955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B29F93-4212-44D3-84B0-222303F58955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B29F93-4212-44D3-84B0-222303F58955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

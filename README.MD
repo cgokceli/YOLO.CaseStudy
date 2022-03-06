@@ -23,3 +23,10 @@ docker run --name=yolo_case_study --restart=always --mount type=bind,source=$(pw
 ```
 http://localhost:$PORT/swagger
 ```
+
+
+### Run Tests
+
+```
+dotnet test -c Release --logger "console;verbosity=detailed"
+```
