@@ -1,3 +1,5 @@
+[![Run Unit Tests](https://github.com/cgokceli/YOLO.CaseStudy/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/cgokceli/YOLO.CaseStudy/actions/workflows/unit_tests.yml)
+
 ### Build It:
 
 ```
