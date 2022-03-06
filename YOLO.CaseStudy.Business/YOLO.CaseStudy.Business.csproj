@@ -17,10 +17,4 @@
 		<ProjectReference Include="..\YOLO.CaseStudy.Entities\YOLO.CaseStudy.Entities.csproj" />
 	</ItemGroup>
 
-	<!--<ItemGroup>
-		<None Update="100MB.bin">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
-	</ItemGroup>-->
-
 </Project>
