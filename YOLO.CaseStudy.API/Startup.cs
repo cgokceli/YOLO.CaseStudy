@@ -11,6 +11,7 @@ using Microsoft.OpenApi.Models;
 using System.Collections.Generic;
 using System.IO.Compression;
 using System.Reflection;
+using YOLO.CaseStudy.API.Middlewares;
 using YOLO.CaseStudy.Business.Implementations;
 using YOLO.CaseStudy.Business.Interfaces;
 
@@ -61,6 +62,7 @@ namespace YOLO.CaseStudy.API
             {
                 app.UseResponseCompression();
             }
+            app.UseMiddleware<ErrorHandlingMiddleware>();
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
