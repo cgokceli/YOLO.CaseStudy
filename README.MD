@@ -1,5 +1,4 @@
 [![Run Unit Tests](https://github.com/cgokceli/YOLO.CaseStudy/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/cgokceli/YOLO.CaseStudy/actions/workflows/unit_tests.yml)
-[![Heroku](http://heroku-badge.herokuapp.com/?app=yolo-case-study&root=swagger&style=flat&svg=1)](https://yolo-case-study.herokuapp.com/swagger/index.html)
 
 ### Build It:
 
